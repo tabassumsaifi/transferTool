@@ -1,0 +1,10 @@
+
+
+.payment-outer-wrap{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.payment-inner-wrap{
+    margin: auto 0px;
+}

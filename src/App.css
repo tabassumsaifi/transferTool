@@ -1,0 +1,15 @@
+body{
+  margin: 0px;
+}
+@font-face {
+  font-family: "proximaNovaRegular"; 
+    src: url("./assets/font/ProximaNova-Regular.woff") format("woff"),  
+  url("./assets/font/ProximaNova-Regular.ttf") format("ttf");
+  }
+  @font-face {
+    font-family: "proximaNovaBold"; 
+      src: url("./assets/font/ProximaNova-Bold.woff") format("woff"),  
+      url("./assets/font/ProximaNova-Bold.woff2") format("woff2"),
+      url("./assets/font/ProximaNova-Bold.otf") format("otf"),
+    url("./assets/font/ProximaNova-Bold.ttf") format("ttf");
+    }

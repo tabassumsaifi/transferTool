@@ -1,0 +1,8 @@
+.top_header_main.MuiAppBar-root {
+    background-color: #f1f2f6;
+    box-shadow: none;
+  }
+  .header_inner_wrap.MuiToolbar-regular {
+    min-height: 70px;
+  }
+ 
